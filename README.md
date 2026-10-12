@@ -1,2 +1,3 @@
 # COMP484-HW7
-hw7 for comp484 (personal resume pt. 2)
+
+[View Here](https://edaper.github.io/COMP484-HW7/)
